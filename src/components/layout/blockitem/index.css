@@ -1,0 +1,17 @@
+.itemblock-img{
+    height: 80px;
+    width: auto;
+    opacity: 0.7;
+}
+.itemblock-img :hover{
+    opacity: 0.1;
+}
+.BlockItem-wrapper{
+    width: 49.5%;
+}
+
+.item-bg :hover{
+    transform: scale(1.03);
+    transition: 0.4s ease-in;
+}
+
